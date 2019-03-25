@@ -1,6 +1,6 @@
 # IECodingChallenge1
 
-External jars used : junit-addons-1.4.jar, mockito-all-1.10.19.jar
+External jars used : junit-addons-1.4.jar, mockito-all-1.10.19.jar have been placed under /IEDCodingChallenge/src/library
 
 Environment :JDK 1.8
 
